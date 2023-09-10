@@ -1,16 +1,14 @@
-# untitled
+# ChatGPT App
 
-A new Flutter project.
+ChatGPT is an Flutter based mobile appliaction which gives AI genrated responses to users questions,we can also choose varity of AI models to choose from. Response are genrated using OpenAI API.State of the appliaction is done with Provider state management.API requests managed with RESTful API.
 
-## Getting Started
+## App architecture
 
-This project is a starting point for a Flutter application.
+![file Structure](https://github.com/alam-shoaib/Chat_GPT_Flutter/assets/94287325/719af6dc-e3b9-4d2b-b762-48d1f12b206a)
 
-A few resources to get you started if this is your first Flutter project:
+## Working Demo of the App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/alam-shoaib/Chat_GPT_Flutter/assets/94287325/b205af61-1558-465c-b38f-6c19cdd0dff5
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
