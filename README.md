@@ -8,7 +8,8 @@ ChatGPT is an Flutter based mobile appliaction which gives AI genrated responses
 
 ## Working Demo of the App
 
-https://github.com/alam-shoaib/Chat_GPT_Flutter/assets/94287325/b205af61-1558-465c-b38f-6c19cdd0dff5
 
 
+
+![Untitled video - Made with Clipchamp](https://github.com/alam-shoaib/Chat_GPT_Flutter/assets/94287325/118469a1-c3d1-49c5-b3c3-83f34da9a87d)
 
